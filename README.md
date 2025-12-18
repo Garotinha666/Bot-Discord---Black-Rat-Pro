@@ -14,8 +14,8 @@ Bot Discord criado para compartilhar recursos educacionais, cursos e links útei
 ### 1. Clone ou baixe este repositório
 
 ```bash
-git clone <seu-repositorio>
-cd <pasta-do-bot>
+git clone https://github.com/Garotinha666/Bot-Discord-Black-Rat-Pro
+cd Bot-Discord-Black_rat_pro
 ```
 
 ### 2. Instale as dependências
